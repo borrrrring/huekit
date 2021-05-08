@@ -51,7 +51,7 @@ All components are marked `open`, so they can be subclassed. Also, all component
 To install, add the following line to your ```Podfile```:
 
 ```ruby
-pod 'HueKit', '~> 1.0'
+pod 'HueKit', :git => 'https://github.com/borrrrring/huekit.git'
 ```
 
 ### [Carthage](https://github.com/Carthage/Carthage)
