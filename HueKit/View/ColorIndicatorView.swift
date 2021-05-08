@@ -52,11 +52,11 @@ open class ColorIndicatorView: UIView {
 		
 		// Stroke it (black transucent, inner):
 		
-		context.addArc(center: center, radius: radius - 1.0, startAngle: 0.0, endAngle: 2.0 * .pi, clockwise: true)
-
-		context.setStrokeColor(gray: 0.0, alpha: 0.5)
-		context.setLineWidth(2.0)
-		context.strokePath()
+//		context.addArc(center: center, radius: radius - 1.0, startAngle: 0.0, endAngle: 2.0 * .pi, clockwise: true)
+//
+//		context.setStrokeColor(gray: 0.0, alpha: 0.5)
+//		context.setLineWidth(2.0)
+//		context.strokePath()
 		
 		// Stroke it (white, outer):
 		

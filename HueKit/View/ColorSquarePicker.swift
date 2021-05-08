@@ -12,8 +12,8 @@ import UIKit
 @IBDesignable
 open class ColorSquarePicker: UIControl {
 
-	private let contentInsetX: CGFloat = 20
-	private let contentInsetY: CGFloat = 20
+	private let contentInsetX: CGFloat = 0
+	private let contentInsetY: CGFloat = 0
 	
 	private let indicatorSizeInactive: CGFloat = 24
 	private let indicatorSizeActive: CGFloat = 40
